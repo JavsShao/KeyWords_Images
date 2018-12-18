@@ -106,3 +106,6 @@ MYSQL_PORT = 3306
 MYSQL_USER = 'root'
 MYSQL_PASSWORD = '970202'
 
+# 存储文件的路径
+IMAGES_STORE = './images'
+
