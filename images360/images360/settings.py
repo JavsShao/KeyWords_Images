@@ -91,3 +91,8 @@ ROBOTSTXT_OBEY = False
 
 # 最大爬取页数
 MAX_PAGE = 50
+
+# MongoDB数据库配置
+MONGO_URI = 'localhost'MongoDB数据库配置
+MONGO_DB = 'images360_1'
+
