@@ -5,7 +5,7 @@ from urllib.parse import urlencode
 import scrapy
 from scrapy import Request
 
-from images360.images360.items import ImageItem
+from images360.items import ImageItem
 
 
 class ImagesSpider(scrapy.Spider):
