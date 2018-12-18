@@ -93,6 +93,13 @@ ROBOTSTXT_OBEY = False
 MAX_PAGE = 50
 
 # MongoDB数据库配置
-MONGO_URI = 'localhost'MongoDB数据库配置
+MONGO_URI = 'localhost'
 MONGO_DB = 'images360_1'
+
+# MySQL配置
+MYSQL_HOST = 'localhost'
+MYSQL_DATABASE = 'images360_2'
+MYSQL_PORT = 3306
+MYSQL_USER = 'root'
+MYSQL_PASSWORD = '970202'
 
